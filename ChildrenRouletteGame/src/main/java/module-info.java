@@ -1,0 +1,7 @@
+
+/**
+ * @author Shyamant
+ *
+ */
+module codingtestgame {
+}
