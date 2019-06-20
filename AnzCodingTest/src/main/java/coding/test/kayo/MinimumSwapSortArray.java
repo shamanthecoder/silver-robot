@@ -1,4 +1,4 @@
-package com.coding.test.anz;
+package coding.test.kayo;
 
 import java.util.Scanner;
 
