@@ -3,7 +3,7 @@ package com.org.google;
 import java.util.ArrayList;
 import java.util.Scanner;
 
-public class AtlassianBaseConversion {
+public class BaseConversion {
 
 	public static void main(String[] args){
 		Scanner scan = new Scanner(System.in);
